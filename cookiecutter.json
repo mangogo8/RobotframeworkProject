@@ -1,5 +1,6 @@
 {
     "project_name":"RobotframeworkProject",
+    "service_name":"order-api"
     "author_name":"mangogo8",
     "author_email":"mangogo8@test.com"
 }
